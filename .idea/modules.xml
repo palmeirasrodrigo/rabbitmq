@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumidor-estoque/consumidor-estoque.iml" filepath="$PROJECT_DIR$/consumidor-estoque/consumidor-estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estoquepreco/estoquepreco.iml" filepath="$PROJECT_DIR$/estoquepreco/estoquepreco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librabbitmq/librabbitmq.iml" filepath="$PROJECT_DIR$/librabbitmq/librabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rabbitmq.iml" filepath="$PROJECT_DIR$/.idea/rabbitmq.iml" />
+    </modules>
+  </component>
+</project>
